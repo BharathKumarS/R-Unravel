@@ -17,8 +17,6 @@ library(scales)
 ## Project goals
 In this project, I have tried to analyze Uber Pickups in New York City dataset. 
 
-
-
 ## Including Code
 
 ```{r colors}
